@@ -7,21 +7,21 @@
 	"author": {
 		"name": "Alexander Katrukhin",
 		"email": "a.katrukhin@gmail.com",
-		"github": "akatrukhin"
+		"github": "pixel-perfectionist"
 	},
 	"publish": [
 		{
 			"provider": "github",
-			"owner": "akatrukhin",
+			"owner": "pixel-perfectionist",
 			"repo": "portfolio"
 		}
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/akatrukhin/portfolio.git"
+		"url": "git+https://github.com/pixel-perfectionist/portfolio.git"
 	},
 	"keywords": [
-		"Porfolio",
+		"Portfolio",
 		"Developer",
 		"Front-End",
 		"UX Engineer",
@@ -55,5 +55,6 @@
 	},
 	"dependencies": {
 		"svelte-routing": "^1.6.0"
-	}
+	},
+	"homepage": "https://you-need-a-dev-like.me"
 }
